@@ -1,11 +1,5 @@
 <h1 align="center">Olá, bem vindo ao meu GitHub Meu nome é Igor César.</h1>
-<h3 align="center">Sou desenvolvedor Back-End. Estudo programação desde 2016.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorcesardev&label=Profile%20views&color=0e75b6&style=flat" alt="igorcesardev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igorcesardev" alt="igorcesardev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">Sou estudante de Engenharia de Software com paixão pelo desenvolvimento back-end. Com 24 anos, estou atualmente cursando Engenharia de Software na Estácio e me dedico a aprimorar minhas habilidades por meio de cursos focados em back-end na Alura. Desde cedo, fui fascinado pelo mundo por trás dos sites e aplicativos, e essa curiosidade me impulsiona a estudar diariamente. Cada nova descoberta que faço nesse campo é uma experiência maravilhosa. Atualmente, tenho conhecimento em várias linguagens de programação, sendo elas: C#, Python, Java,JS, SQL e Mysql.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
