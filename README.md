@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=993399&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Igor+C%C3%A9sar;Seja+bem-vindo!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=993399&center=true&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+GitHub!;Me+chamo+Igor+C%C3%A9sar" alt="Typing SVG" /></a>
 
 <blockquote style="font-size: smaller;">
   <p>Sou estudante de Engenharia de Software com paixão pelo desenvolvimento back-end. Com 24 anos, estou atualmente cursando Engenharia de Software na Estácio e me dedico a aprimorar minhas habilidades por meio de cursos focados em back-end na Alura. Desde cedo, fui fascinado pelo mundo por trás dos sites e aplicativos, e essa curiosidade me impulsiona a estudar diariamente.</p>
