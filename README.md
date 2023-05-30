@@ -1,7 +1,7 @@
 <h1 align="center">Olá, bem vindo ao meu GitHub.</h1>
 <h2 align="center"> Meu nome é Igor César.</p>
-<p align="center">Sou estudante de Engenharia de Software com paixão pelo desenvolvimento back-end. Com 24 anos, estou atualmente cursando Engenharia de Software na Estácio e me dedico a aprimorar minhas habilidades por meio de cursos focados em back-end na Alura. Desde cedo, fui fascinado pelo mundo por trás dos sites e aplicativos, e essa curiosidade me impulsiona a estudar diariamente. Cada nova descoberta que faço nesse campo é uma experiência maravilhosa. Atualmente, tenho conhecimento em várias linguagens de programação, sendo elas: C#, Python, Java,JS, SQL e Mysql.</p>
-
+<p align="center">Sou estudante de Engenharia de Software com paixão pelo desenvolvimento back-end. Com 24 anos, estou atualmente cursando Engenharia de Software na Estácio e me dedico a aprimorar minhas habilidades por meio de cursos focados em back-end na Alura. Desde cedo, fui fascinado pelo mundo por trás dos sites e aplicativos, e essa curiosidade me impulsiona a estudar diariamente. Cada nova descoberta que faço nesse campo é uma experiência maravilhosa.</p>
+<p aling="center> Atualmente, tenho conhecimento em várias linguagens de programação, sendo elas: C#, Python, Java,JS, SQL e Mysql.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/igor-césar-183408247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igor-césar-183408247/" height="30" width="40" /></a>
