@@ -1,8 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=header"/>
 
+
 <h1 align="center">Olá, bem vindo ao meu GitHub.</h1>
 <h2 align="center"> Meu nome é Igor César.</p>
-<p align="center">Sou estudante de Engenharia de Software com paixão pelo desenvolvimento back-end. Com 24 anos, estou atualmente cursando Engenharia de Software na Estácio e me dedico a aprimorar minhas habilidades por meio de cursos focados em back-end na Alura. Desde cedo, fui fascinado pelo mundo por trás dos sites e aplicativos, e essa curiosidade me impulsiona a estudar diariamente.</p>
+<blockquote>
+  <p align="center">Sou estudante de Engenharia de Software com paixão pelo desenvolvimento back-end. Com 24 anos, estou atualmente cursando Engenharia de Software na Estácio e me dedico a aprimorar minhas habilidades por meio de cursos focados em back-end na Alura. Desde cedo, fui fascinado pelo mundo por trás dos sites e aplicativos, e essa curiosidade me impulsiona a estudar diariamente.</p>
+</blockquote>
 <p aling="center"> Atualmente, tenho conhecimento em várias linguagens de programação, sendo elas: C#, Python, Java, JS, SQL e Mysql.</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
