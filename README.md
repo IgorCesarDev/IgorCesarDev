@@ -8,7 +8,7 @@
 
 <ul style="font-size: smaller;">
     <li>Tenho conhecimento em várias linguagens de programação, sendo elas: C#, Python, Java, JS.</li>
-    <li>Gerencio o Discord da Vacuum, que é uma comunidade focada em ajudar desenvolvedores.</li>
+    <li>Expertise em C#, Python, Java e JS.</li>
 </ul>
 
 <div align="center">
