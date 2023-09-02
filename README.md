@@ -7,7 +7,7 @@
 
 <ul style="font-size: smaller;">
     <li>Expertise em C#, Python, Java e JS.</li>
-    <li>Gestor do Discord da Vacuum, comunidade focada no auxilio de desenvolvedores.</li>
+    <li>Entusiasta Em IA e Ciber Segurança</li>
 </ul>
 
 <div align="center">
