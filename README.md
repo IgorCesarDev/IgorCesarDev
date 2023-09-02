@@ -7,7 +7,7 @@
 
 <ul style="font-size: smaller;">
     <li>Expertise em C#, Python, Java e JS.</li>
-    <li>Entusiasta Em IA e Ciber Segurança</li>
+    <li>Entusiasta Em IA e Cibersegurança</li>
 </ul>
 
 <div align="center">
